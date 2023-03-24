@@ -10,7 +10,7 @@ def game():
     if a=="Yes":
         print("Okay, let's start your journey ;) ")
         print(" ")
-        b=input("Please enter your name : ")
+        b=input("Please enter your name :")
         print(" ")
         print("Hey",b,", Get ready to fight with 'MAX' (The Pokemon master)")
         time.sleep(1)
