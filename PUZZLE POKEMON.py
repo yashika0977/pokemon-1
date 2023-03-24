@@ -8,7 +8,7 @@ import time
 def game():
     a=input("Do you want to start your journey?(Yes/No) : ")
     if a=="Yes":
-        print("Okay, let's start your journey ;) ")
+        print("Okay, let's start your journey :) ")
         print(" ")
         b=input("Please enter your name :")
         print(" ")
